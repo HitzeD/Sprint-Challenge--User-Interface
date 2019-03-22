@@ -211,6 +211,13 @@ footer {
     justify-content: center;
 }
 
+.container .intro {
+    margin-top: 10px;
+}
+.container .intro .head {
+    margin-top: 10px;
+}
+
 .img-cont {
     display: flex;
     flex-wrap: wrap;
@@ -218,4 +225,32 @@ footer {
 
 .img-cont .cont {
     width: 49.5%;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.img-cont .border {
+    border-top: 1px dashed black;
+    border-bottom: 1px dashed black;
+}
+
+.img-cont .border-bot {
+    border-bottom: 1px dashed black;
+}
+
+.img-cont .cont img {
+    margin-bottom: 5px;
+}
+
+.img-cont .cont button {
+    border-radius: 15px;
+    width: 90px;
+    height: 30px;
+    margin-top: 5px;
+    border: 2px solid black;
+}
+
+.container .closing {
+    margin-top: 40px;
+    margin-bottom: 40px;
 }

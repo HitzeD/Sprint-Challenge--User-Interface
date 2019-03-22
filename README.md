@@ -34,22 +34,22 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-Semantic means 'Meaning' semantic HTML is meaning full HTML that the SEO can search your HTML for relevant items
+#Semantic means 'Meaning' semantic HTML is meaning full HTML that the SEO can search your HTML for relevant items
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-block- treated as its own thing, it takes up all the space that it needs, and doesn't share the space it doesnt utilize unless told to go into inline block, which is when the element takes up the space it needs, and lets other elements use the space it doesnt need
+#block- treated as its own thing, it takes up all the space that it needs, and doesn't share the space it doesnt utilize unless told to go into inline block, which is when the element takes up the space it needs, and lets other elements use the space it doesnt need
 
 3. What are the 4 areas of the box model?
-content, padding, border, margin
+#content, padding, border, margin
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
-cross-axis
+#cross-axis
 
 5. Explain why git is valuable to a team of developers.
 
-git allows us to make changes, delete, add or change content on one document, and keeps track of the changees and who makes what change.
+#git allows us to make changes, delete, add or change content on one document, and keeps track of the changees and who makes what change.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 

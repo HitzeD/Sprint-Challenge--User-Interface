@@ -210,3 +210,8 @@ footer {
     display: flex;
     justify-content: center;
 }
+
+.img-cont {
+    display: flex;
+    flex-wrap: wrap;
+}

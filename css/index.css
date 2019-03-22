@@ -215,3 +215,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
 }
+
+.img-cont .cont {
+    width: 49.5%;
+}

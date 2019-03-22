@@ -144,3 +144,69 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* Self additions!!! */
+
+
+.container nav {
+    display: flex;
+    justify-content: space-around;
+    /* margin: 0 auto; */
+}
+
+.container nav a {
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.top-content {
+    margin-top: 20px;
+}
+.container nav img {
+    margin-top: 5px;
+}
+
+.middle-content .boxes .box1 {
+    background-color: teal;
+}
+
+.middle-content .boxes .box2 {
+    background-color: gold;
+}
+
+.middle-content .boxes .box3 {
+    background-color: cadetblue;
+}
+
+.middle-content .boxes .box4 {
+    background-color: coral;
+}
+
+.middle-content .boxes .box5 {
+    background-color: crimson;
+}
+
+.middle-content .boxes .box6 {
+    background-color: forestgreen;
+}
+
+.middle-content .boxes .box7 {
+    background-color: darkorchid;
+}
+
+.middle-content .boxes .box8 {
+    background-color: hotpink;
+}
+
+.middle-content .boxes .box9 {
+    background-color: indigo;
+}
+
+.middle-content .boxes .box10 {
+    background-color: dodgerblue;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
